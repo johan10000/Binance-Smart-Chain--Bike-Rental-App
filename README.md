@@ -28,3 +28,5 @@ D. STatus: Green- I have a bike checked on(Taken)/Red- I don't have a bike check
 2. Choose the bike
 
 3. Checkout
+
+We access a renter through it's wallet address, because everthing on web3 is a wallet address.
